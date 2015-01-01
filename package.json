@@ -14,5 +14,8 @@
   "scripts": {
     "start": "lineman run",
     "test": "lineman spec-ci"
+  },
+  "devDependencies": {
+    "lineman-less": "~0.1.0"
   }
 }
