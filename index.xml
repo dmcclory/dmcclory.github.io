@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[my lineman blog]]></title><description><![CDATA[where I post all my brilliant ideas]]></description><link>http://www.mylinemanblog.com</link><generator>RSS for Node</generator><lastBuildDate>Thu, 01 Jan 2015 00:48:41 GMT</lastBuildDate><atom:link href="http://www.mylinemanblog.com/index.xml" rel="self" type="application/rss+xml"/><author><![CDATA[FirstName LastName]]></author><item><title><![CDATA[Test Post!]]></title><description><![CDATA[<p>If all goes well, I&#39;ll be reading this at dmcclory.github.io</p>
+<blockquote>
+<p>I&#39;m an awesome quote</p>
+</blockquote>
+]]></description><link>http://www.mylinemanblog.com/posts/2013-12-31-test-post.html</link><guid isPermaLink="true">http://www.mylinemanblog.com/posts/2013-12-31-test-post.html</guid><dc:creator><![CDATA[FirstName LastName]]></dc:creator><pubDate>Tue, 31 Dec 2013 00:00:00 GMT</pubDate></item></channel></rss>
