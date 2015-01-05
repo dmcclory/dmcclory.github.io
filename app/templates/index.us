@@ -1,1 +1,8 @@
-<%= site.htmlFor(_(site.posts).last()) %>
+<h1>archives</h1>
+<ul>
+<% _(site.posts).chain().reverse().each(function(post){ %>
+  <li>
+    <a href="/<%= post.htmlPath() %>"><%= post.title() %></a>
+  </li>
+<% }) %>
+</ul>
